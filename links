@@ -1,6 +1,9 @@
 https://medium.com/coinmonks/creating-your-first-token-in-tons-blockchain-76cdf083d4cc
 
-FunC standard library
+#Jetton Deployer - Контракты
+https://github.com/ton-blockchain/minter-contract/tree/main
+
+# Стандартная библиотека FunC
 https://ton-blockchain.github.io/docs/#/func/stdlib?id=dict_get
 
 TON HTTP API
