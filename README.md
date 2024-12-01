@@ -84,3 +84,6 @@ https://dzen.ru/a/ZtiJYBnrqkjlr0q3?ysclid=m34fxgeytu38089329
 
 Примеры скриптов на языке Go
 https://github.com/xssnick/tonutils-go/tree/b50926d8ef7c7495c6cfea93c878efce040f96a8/example
+
+### полезная статья про Claude.ai
+https://vc.ru/chatgpt/1622826-claude-35-ot-anthropic-komu-polezny-neveroyatnye-killer-fichi-obzor-i-kak-oplatit-iz-rossii
