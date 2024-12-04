@@ -15,8 +15,10 @@ https://ton.org/address/
 https://minter.ton.org/
 
 https://github.com/ton-blockchain/minter/tree/main
+
 https://github.com/ton-blockchain/minter-contract/tree/main
 
+### Обзор транзакций и адресов
 https://tonscan.org/ru
 
 https://tonviewer.com/
