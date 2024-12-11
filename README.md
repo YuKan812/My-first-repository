@@ -3,6 +3,9 @@ https://medium.com/coinmonks/creating-your-first-token-in-tons-blockchain-76cdf0
 ### Jetton Deployer - Контракты
 https://github.com/ton-blockchain/minter-contract/tree/main
 
+### Tonweb библиотека
+https://github.com/toncenter/tonweb/tree/master
+
 ### Стандартная библиотека FunC
 https://ton-blockchain.github.io/docs/#/func/stdlib?id=dict_get
 
